@@ -1,0 +1,32 @@
+{
+   "name":"academia-de-mestres",
+   "title":"Compendium Academia de Mestres",
+   "description":"Esse módulo trás o conteúdo de jogo criado pela academia de mestres para o foundry, como o baralho de críticos e o guia de ameaças. Ambos são conteúdos para o sistema Tormenta20",
+   "author":"Gustavo Reis",
+   "version":"0.0.1",
+   "minimumCoreVersion":"0.8.9",
+   "compatibleCoreVersion":"0.8.9",
+   "packs":[
+      {
+         "name":"baralho-de-1-natural",
+         "label":"Baralho de Críticos",
+         "path":"packs/baralho-de-1-natural.db",
+         "entity":"JournalEntry",
+         "module":"academia-de-mestres"
+      },
+      {
+         "name":"baralho-de-20-natural",
+         "label":"Baralho de Críticos",
+         "path":"packs/baralho-de-20-natural.db",
+         "entity":"JournalEntry",
+         "module":"academia-de-mestres"
+      },
+      {
+         "name":"tabelas-dos-baralhos-de-criticos",
+         "label":"Tabelas dos Baralhos de Críticos",
+         "path":"packs/tabelas-dos-baralhos-de-criticos.db",
+         "entity":"RollTable",
+         "module":"academia-de-mestres"
+      }
+   ]
+}
