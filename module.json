@@ -3,7 +3,7 @@
    "title":"Compendium Academia de Mestres",
    "description":"Esse módulo trás o conteúdo de jogo criado pela academia de mestres para o foundry, como o baralho de críticos e o guia de ameaças. Ambos são conteúdos para o sistema Tormenta20",
    "author":"Academia de Mestres",
-   "version":"0.0.3",
+   "version":"0.0.2",
    "minimumCoreVersion":"0.8.9",
    "compatibleCoreVersion":"0.8.9",
    "packs":[
