@@ -9,14 +9,14 @@
    "packs":[
       {
          "name":"baralho-de-1-natural",
-         "label":"Baralho de Críticos",
+         "label":"Baralho de 1 Natural",
          "path":"packs/baralho-de-1-natural.db",
          "entity":"JournalEntry",
          "module":"academia-de-mestres"
       },
       {
          "name":"baralho-de-20-natural",
-         "label":"Baralho de Críticos",
+         "label":"Baralho de 20 Natural",
          "path":"packs/baralho-de-20-natural.db",
          "entity":"JournalEntry",
          "module":"academia-de-mestres"
